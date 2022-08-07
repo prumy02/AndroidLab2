@@ -4,7 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/prumy/AndroidStudioProjects/AndroidLab2/app/src/main/res/drawable/xml_image.xml" value="0.2975" />
+        <entry key="..\:/Users/prumy/AndroidStudioProjects/AndroidLab2/app/src/main/res/layout-land/activity_main2.xml" value="0.15432098765432098" />
+        <entry key="..\:/Users/prumy/AndroidStudioProjects/AndroidLab2/app/src/main/res/layout/acitivity_main2.xml" value="0.35733695652173914" />
         <entry key="..\:/Users/prumy/AndroidStudioProjects/AndroidLab2/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/prumy/AndroidStudioProjects/AndroidLab2/app/src/main/res/layout/activity_main2.xml" value="0.35733695652173914" />
+        <entry key="..\:/Users/prumy/AndroidStudioProjects/AndroidLab2/app/src/main/res/layout/horizontal.xml" value="0.10740740740740741" />
+        <entry key="..\:/Users/prumy/AndroidStudioProjects/AndroidLab2/app/src/main/res/layout/vertical.xml" value="0.35733695652173914" />
         <entry key="..\:/Users/prumy/AndroidStudioProjects/AndroidLab2/ch6_view/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="..\:/Users/prumy/AndroidStudioProjects/AndroidLab2/ch7_layout/src/main/res/layout/activity_main.xml" value="0.35733695652173914" />
         <entry key="..\:/Users/prumy/AndroidStudioProjects/AndroidLab2/ch8_event/src/main/res/drawable/round_button.xml" value="0.1295" />

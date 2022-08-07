@@ -15,6 +15,7 @@ import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.core.content.ContextCompat
 import androidx.core.content.res.ResourcesCompat
+import com.example.androidlab.databinding.ActivityMain2Binding
 import com.example.androidlab.databinding.ActivityMainBinding
 import java.util.function.LongFunction
 
@@ -22,11 +23,9 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        val binding = ActivityMainBinding.inflate(layoutInflater)
+        val binding = ActivityMain2Binding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.imageView.setImageDrawable(ResourcesCompat.getDrawable(resources,android.R.drawable.alert_dark_frame,null))
-        binding.textView.text = getString(android.R.string.emptyPhoneNumber)
     }
 
 
